@@ -1,0 +1,103 @@
+html, body {
+
+                background-image: url('../img/elephant.jpg');
+
+ 
+
+                height: 100%;
+
+                background-size: cover;
+
+ 
+
+}
+
+ 
+
+#logo {
+
+                background-image: url('../img/Capture.png');
+
+                padding-top: 20px;
+
+}
+
+#intro p {
+
+               
+
+                color: white;
+
+                text-align: center;
+
+                font-family: 'Homemade Apple', cursive;
+
+                font-size: 48px;
+
+               
+
+}
+
+ 
+
+ 
+
+#counter .countdown {
+
+                color: red;
+
+                text-align: center;
+
+                font-size: 24px;
+
+ 
+
+}
+
+ 
+
+#icons{
+
+                text-align: center;           
+
+                color: white;
+
+                padding: 20px 25px;
+
+}
+
+ 
+
+ 
+
+#signup {
+
+                text-align:            center;
+
+}
+
+ 
+
+#signup .form-inline {
+
+                display:block;
+
+}
+
+ 
+
+#signup .btn {
+
+                background-color:           rgba(161, 186, 226, 0.5);
+
+}
+
+ 
+
+#signup .btn:hover {
+
+                background-color:           rgba(37,165, 82, 1);
+
+}
+
+ 
